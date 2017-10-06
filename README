@@ -1,0 +1,4 @@
+Static  variable
+Static variable are decalred in the class using static keyword.
+Not possible to declare static variable in methods
+
