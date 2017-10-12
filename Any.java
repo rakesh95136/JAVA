@@ -1,0 +1,7 @@
+
+
+class Any extends Child
+{
+
+
+}
